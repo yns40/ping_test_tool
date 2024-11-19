@@ -181,9 +181,9 @@ CALL:Riot er01.fra02.riotdirect.net
 ECHO. - Frankfurt, DE:          %ms%
 ECHO. ------------------------------------------------  && ECHO.  PUBG Sunuculari
 ECHO.  PUBG Sunuculari >> ping.txt
-Call:PUBG 35.156.63.252
+Call:PUBG 18.156.0.0
 ECHO. - Frankfurt, DE:          %ms% >> ping.txt
-Call:PUBG 35.156.63.252
+Call:PUBG 18.156.0.0
 ECHO. - Frankfurt, DE:          %ms%
 ECHO. ------------------------------------------------ && ECHO.  Fortnite (Epic Games) Sunuculari
 ECHO.  Fortnite (Epic Games) Sunuculari >> ping.txt 
